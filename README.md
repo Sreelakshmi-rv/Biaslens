@@ -48,10 +48,14 @@ The workflow of BiasLens includes the following steps:
     * Best model balancing fairness and accuracy
     * Recommendations for mitigating bias
 
+## Live Demo
+Biaslens: https://biaslens-srv.streamlit.app/
+
 ## Future Enhancements
 * Integrate more advanced fairness metrics and mitigation algorithms.
 * Support multi-class and regression problems.
 * Enable batch analysis for multiple datasets.
 * Include feature-level bias analysis and interpretability insights.
 * Add real-time streaming capabilities for large-scale datasets.
+
 
